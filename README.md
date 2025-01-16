@@ -2,7 +2,7 @@
 
 
 Demo 🌐
- A live demo of the project is available here: https://global-country-guide.netlify.app/
+ A live demo of the project is available here: https://global-country-guide-bk.netlify.app/
  
 
 Country Explorer 🌍
